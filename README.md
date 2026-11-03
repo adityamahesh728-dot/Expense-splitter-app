@@ -37,3 +37,12 @@ Open **http://localhost:3000**. Stop the website with **Control + C**.
 
 To use another database (e.g. MongoDB Atlas), create `.env.local` with
 `MONGODB_URI=...` and optionally `MONGODB_DB=...`.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000 in your browser.
